@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Score\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=onLeft
+comment1.target=Score(boolean)
+comment1.text=\r\n\ Score\ is\ the\ constructor\ for\ score\ type\ objects\ which\ sets\ the\ score\ to\ 0\ at\ the\ begining\ of\ the\ game\ \r\n\ and\ displays\ the\ score\r\n\ also\ isLeft\ is\ set\ to\ equal\ onLeft\r\n\ \r\n\ @param\ onLeft\ is\ a\ boolean\ (thats\ referenced)\ to\ what\ side\ the\ paddle\ is\ (later)\ will\ set\ the\ color\ of\ the\ paddle\ depending\ on\ what\ side\r\n\ @return\ nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act\ is\ the\ method\ that\ is\ run\ during\ every\ act\ cycle\r\n\ of\ the\ scenario\r\n\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ displayScore()
+comment3.text=\r\n\ displayScore\ sets\ the\ color\ of\ the\ score\ by\ cheking\ what\ side\ th\ paddle\ is\ and\ updates\ the\ score\ when\ called\ \r\n\ \r\n\ @param\ none\ There\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ countScore()
+comment4.text=\r\n\ countScore\ adds\ the\ score\ to\ the\ scoreboard\ and\ then\ updates\ the\ current\ score\r\n\ \r\n\ @param\ none\ there\ are\ no\ parmeters\r\n\ @return\ nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=int\ getScore()
+comment5.text=\r\n\ getScore\ returns\ the\ current\ score\r\n\ \r\n\ @param\ none\ there\ are\ no\ parameters\r\n\ @return\ getScore\ returns\ a\ int\ (thats\ referenced)\ to\ the\ current\ score\r\n
+numComments=6
